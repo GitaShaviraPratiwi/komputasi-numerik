@@ -1,2 +1,0 @@
-# komputasi-numerik
-komputasi numerik
